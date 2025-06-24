@@ -117,4 +117,4 @@ while True:
             
 
 
-        
+        ##Hay que hacer las weas de innovacion ojopiopjo pa terminar ese ramo ctm culiao de uan vez por toas 
